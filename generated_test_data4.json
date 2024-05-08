@@ -19,7 +19,7 @@
     "id": "663388b0904a1141f07e2c1e",
     "index": 2,
     "age": 22,
-    "name": "Brooks",
+    "name": "Beverly",
     "company": "ELPRO",
     "email": "brooksholt@elpro.com"
   },
@@ -27,7 +27,7 @@
     "id": "663388b0b25dd98f05e9060d",
     "index": 3,
     "age": 29,
-    "name": "Herman",
+    "name": "Beverly",
     "company": "BOVIS",
     "email": "hermanholt@bovis.com"
   },
@@ -35,7 +35,7 @@
     "id": "663388b03199e7cb39a3ffc5",
     "index": 4,
     "age": 22,
-    "name": "Belinda",
+    "name": "Beverly",
     "company": "BRISTO",
     "email": "belindaholt@bristo.com"
   },
@@ -100,7 +100,7 @@
     "index": 12,
     "age": 32,
     "name": "Loraine",
-    "company": "GENESYNK",
+    "company": "BRISTO",
     "email": "loraineholt@genesynk.com"
   },
   {
@@ -108,7 +108,7 @@
     "index": 13,
     "age": 21,
     "name": "Justice",
-    "company": "VENOFLEX",
+    "company": "BRISTO",
     "email": "justiceholt@venoflex.com"
   },
   {
